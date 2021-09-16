@@ -8,3 +8,5 @@ def hitung_luas_persegi(s):
 
 print ("Luas lingkaran dengan diameter 7 adalah ", hitung_luas_lingkaran(7))
 print ("Luas lingkaran dengan panjang sisi 4 adalah ", hitung_luas_persegi(4))
+
+heeii
